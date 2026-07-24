@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mission ML
+Comment=Launch Mission ML Roadmap Tracker
+Exec=/home/kirtagya/Desktop/mission-ml/launch.sh
+Icon=system-run
+Terminal=false
+Categories=Development;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Water Tracker
+Comment=Track daily water intake (2L Target)
+Exec=/home/kirtagya/Desktop/waterIntake/start.sh
+Icon=/home/kirtagya/Desktop/waterIntake/icon.jpg
+Terminal=false
+Categories=Utility;Application;

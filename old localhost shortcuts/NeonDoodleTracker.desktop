@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Neon Doodle Tracker
+Comment=KT's Daily Habit Tracker
+Exec=/home/kirtagya/Desktop/activityTracker/launch.sh
+Icon=/home/kirtagya/Desktop/activityTracker/icon.png
+Terminal=false
+Categories=Utility;

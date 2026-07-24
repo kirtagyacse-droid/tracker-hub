@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Daily Speak
+GenericName=English Speaking Tracker
+Comment=Launch Daily Speak — your daily English fluency practice app
+Exec=bash /home/kirtagya/Desktop/dailySpeak/launch.sh
+Icon=/home/kirtagya/Desktop/dailySpeak/public/icon.png
+Terminal=false
+StartupNotify=true
+Categories=Education;Language;
+Keywords=english;speaking;practice;fluency;ai;
+StartupWMClass=daily-speak
